@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+Lib/
+Include/
+Scripts/
+share/
+pyvenv.cfg
+
+# Ignore dataset and large files
+Flickr8k_Dataset/
+Flickr8k_text/
+
+# Ignore Python cache files
+__pycache__/
+*.pkl
+*.p
